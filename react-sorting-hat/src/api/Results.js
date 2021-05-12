@@ -60,7 +60,7 @@ const Results = {
             imgSrc: require("../designFiles/pluto.jpeg"),
             imgAlt: "Slytherin crest",
             motto: "Congratulations! You are the inexorable Pluto, most misunderstood of the Olympians and god of the dead and ruler of the Underworld.",
-            website: "http://harrypotter.wikia.com/wiki/Slytherin"
+            website: "https://en.wikipedia.org/wiki/Pluto_(mythology)"
         },
     "Juno":
         {   
