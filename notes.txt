@@ -1,0 +1,12 @@
+Jupiter 2
+Mercury 3
+Venus 2
+Neptune 3
+Ceres 3
+Vulcan 2
+Minerva 2
+Apollo 3
+Pluto 2
+Juno 2
+Mars 2
+Diana 2

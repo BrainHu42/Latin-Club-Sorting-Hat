@@ -1,0 +1,197 @@
+/* GENERAL FONTS */
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.7rem;
+}
+
+h2 {
+  font-size: 2.1rem;
+}
+
+p {
+  font-size: 1.7rem;
+  margin: 20px 0;
+  color: #FFFF
+}
+
+.lrg-qt {
+  font-weight: bold;
+}
+
+.sm-qt{
+  font-size: 1.0rem;
+}
+
+/* TOGGLE CLASSES */
+
+.hide {
+  display: none;
+}
+
+/* APP SECTIONS*/
+
+.App-logo {
+  width: auto;
+  height: 140px;
+}
+
+.App-homescreen {
+  max-width: 48%;
+  max-height: 42%;
+  border-radius: 5px;
+  width: auto;
+  height: auto;
+}
+
+.App-gif {
+  max-width: 44%;
+  max-height: 33%;
+  width: auto;
+  height: auto;
+}
+
+.App-result {
+  max-width: 60%;
+  max-height: 50%;
+  width: auto;
+  height: auto;
+}
+
+.App-header {
+  background-color: #FFFF;
+  padding: 20px;
+  color: #6B005C;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.Question-header {
+  padding-top: 0;
+}
+
+.App-section {
+  background-color: #6B005C;
+  padding: 20px 10%;
+}
+
+/* BUTTONS */
+
+.App-btn {
+  font-size: 1.6rem;
+  background-color: #FFFF;
+  color: #6B005C;
+  padding: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* ANSWERS */
+
+.answerOptions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.answerOption {
+  font-size: 1.3rem;
+  background-color: #FFFF;
+  color: #6B005C;
+  margin: 1%;
+  padding: 10px 0;
+  border-radius: 5px;
+  width: 48%;
+}
+
+.radioCustomButton {
+  display: none;
+}
+
+.radioCustomLabel {
+  cursor: pointer; 
+}
+
+/* RESULTS */
+
+.result-btns {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result-btn {
+  margin-bottom: 2%;
+  width: 500px;
+}
+
+/*
+
+.Hufflepuff .Result-header {
+  background-color: #222;
+  color: #FFCE47;
+}
+
+.Hufflepuff .App-section {
+  background-color: #FFCE47;
+  color: #222;
+}
+
+.Hufflepuff .result-btn {
+  background-color: #222;
+  color: #FFCE47;
+}
+
+
+.Gryffindor .Result-header {
+  background-color: #222;
+  color: #CC2024;
+}
+
+.Gryffindor .App-section {
+  background-color: #CC2024;
+  color: #FFCE47;
+}
+
+.Gryffindor .result-btn {
+  background-color: #222;
+  color: #FFCE47;
+}
+
+
+.Ravenclaw .Result-header {
+  background-color: #222;
+  color: #029DDA;
+}
+
+.Ravenclaw .App-section {
+  background-color: #029DDA;
+  color: #694939;
+}
+
+.Ravenclaw .result-btn {
+  background-color: #222;
+  color: #B8916D;
+}
+
+
+.Slytherin .Result-header {
+  background-color: #222;
+  color: #259746;
+}
+
+.Slytherin .App-section {
+  background-color: #259746;
+  color: #C2C3C3;
+}
+
+.Slytherin .result-btn {
+  background-color: #222;
+  color: #C2C3C3;
+}
+*/
