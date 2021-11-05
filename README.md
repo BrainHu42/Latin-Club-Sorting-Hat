@@ -1,7 +1,7 @@
 # Latin-Club-Sorting-Hat
 Answer a series of questions to find out which Olympian you're most aligned with.
 
-You can access the app here: https://kinghorton.github.io/Latin-Club-Sorting-Hat/
+You can access the app here: https://brainhu42.github.io/Latin-Club-Sorting-Hat/
 
 # Credits
 Created for Miramonte Latin Club.
